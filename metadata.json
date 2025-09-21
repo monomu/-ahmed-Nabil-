@@ -1,0 +1,5 @@
+{
+  "name": "Souq Harj - Iraqi Classifieds",
+  "description": "A modern classifieds website for Iraq, inspired by Haraj. Users can post ads with images, browse listings by governorate, and manage their content. Features an admin panel for site management and AdSense integration.",
+  "requestFramePermissions": []
+}
